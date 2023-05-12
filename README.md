@@ -1,2 +1,2 @@
-# CodeClause_Color_Detection
-Color Detection is the process of detecting the name of any color.
+**COLOR_DETECTION_PROJECT**
+Color Detection is the process of detecting the name of any color.This project is done by using Python libraries - OpenCV, Pandas and Numpy.Three differener colors Red, Green and Blue are being tracked by utilising the fundamentals of computer vision. After successful compilation when we execute the code a window directs the image displayed on it whose path is given as an argument. This is executed in the window named with the color detection app. We are introducing the CV databse and according to it the number of shades that can be identical using 865 color names along with their RGB and hex values. Whenever the ccursor clicks the image, it automatically shows the RGB shades color values.
